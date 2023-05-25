@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import configparser
+
+
 class AmTCD(tk.Frame):
     def __init__(self, master=None):
         super().__init__(master)
@@ -11,6 +13,7 @@ class AmTCD(tk.Frame):
         self.filename = None
         self.text_widget = None
         self.create_widgets()
+
     def create_widgets(self):
         self.key_label = tk.Label(self, text="Личный ключ:", bg="darkolivegreen2")
         self.key_label.grid(row=0, column=0)
@@ -42,6 +45,7 @@ class AmTCD(tk.Frame):
         helpmenu.add_separator()
         helpmenu.add_command(label="О программе", command=self.show_about)
         menubar.add_cascade(label="Помощь", menu=helpmenu)
+
     def change_theme(self):
         theme_choice = tk.StringVar(self.master)
         theme_choice.set('default')
@@ -49,6 +53,7 @@ class AmTCD(tk.Frame):
         theme_menu = tk.OptionMenu(self.master, theme_choice, *themes)
         theme_menu.pack()
         ok_button = tk.Button(self.master, text='OK', command=lambda: self.set_theme(theme_choice.get())).pack()
+
     def set_theme(self, theme_name):
         if theme_name == 'default':
             self.master.configure(background='SystemButtonFace').text_widget.configure(bg='white', fg='black')
@@ -58,15 +63,19 @@ class AmTCD(tk.Frame):
             self.master.configure(background='white').text_widget.configure(bg='white', fg='black')
         elif theme_name == 'blue':
             self.master.configure(background='blue').text_widget.configure(bg='white', fg='black')
+
     def copy_text(self, event=None):
         selected_text = self.text_box.selection_get()
         if selected_text:
             self.master.clipboard_clear().clipboard_append(selected_text)
+
     def paste_text(self, event=None):
         self.text_box.insert(tk.INSERT, self.master.clipboard_get())
+
     def exit_application(self, event=None):
         if messagebox.askokcancel("Выход", "Вы действительно хотите выйти?"):
             self.master.destroy()
+
     def create_file(self):
         filename = filedialog.asksaveasfilename(defaultextension=".txtx", filetypes=[("Text Files", "*.txtx")])
         if filename:
@@ -74,12 +83,15 @@ class AmTCD(tk.Frame):
             config["main"] = {"keyopen": "", "mess": ""}
             with open(filename, "w") as f:
                 config.write(f)
+
     def open_file(self):
         filename = filedialog.askopenfilename(defaultextension=".txtx", filetypes=[("Text Files", "*.txtx")])
         if filename:
             config = configparser.ConfigParser()
             config.read(filename)
-            self.text_box.delete("1.0", tk.END).insert("1.0", self.xor_encrypt(config["main"]["mess"], int(self.key_entry.get())))
+            self.text_box.delete("1.0", tk.END).insert("1.0", self.xor_encrypt(config["main"]["mess"],
+                                                                               int(self.key_entry.get())))
+
     def save_file(self):
         if not self.filename:
             self.filename = filedialog.asksaveasfilename(defaultextension=".txtx", filetypes=[("Text Files", "*.txtx")])
@@ -88,20 +100,27 @@ class AmTCD(tk.Frame):
         ciphertext = self.xor_encrypt(self.text_box.get("1.0", tk.END), self.key_entry.get())
         with open(self.filename, "w") as f:
             f.write("[main]\nkeyopen = {}\nmess = {}".format(self.key_entry.get(), ciphertext))
+
     def show_help(self):
         help_text = "Данная программа позволяет создавать, открывать и сохранять файлы с зашифрованным текстом с помощью XOR-шифрования.\n\n Чтобы создать новый файл, выберите в меню Файл пункт Создать файл.\n\nЧтобы открыть уже существующий файл, выберите в меню Файл пункт Открыть файл и выберите нужный файл в диалоговом окне.\n\nЧтобы сохранить изменения в открытом файле, выберите в меню Файл пункт Сохранить файл.\n\n" \
                     "Перед использованием программы необходимо ввести личный ключ, который будет использоваться для шифрования и расшифрования текста. Личный ключ можно сохранить, нажав на кнопку Сохранить ключ.\n\n" \
                     "Автор: Рахман Кичибеков"
         self.help_window = tk.Toplevel(self.master).title("Справка")
-        self.help_text_box = tk.Text(self.help_window, wrap=tk.WORD, state=tk.DISABLED, bg="darkolivegreen2").pack().configure(state=tk.NORMAL).insert(tk.END, help_text).configure(state=tk.DISABLED)
+        self.help_text_box = tk.Text(self.help_window, wrap=tk.WORD, state=tk.DISABLED,
+                                     bg="darkolivegreen2").pack().configure(state=tk.NORMAL).insert(tk.END,
+                                                                                                    help_text).configure(
+            state=tk.DISABLED)
+
     def show_about(self):
         about_text = "Блокнот AmTCD\nВерсия: 1.0\n\nАвтор: Рахман Кичибеков"
         tk.messagebox.showinfo(title="О программе", message=about_text)
+
     def save_key(self):
         config = configparser.ConfigParser()
         config["main"] = {"keyuser": self.key_entry.get()}
         with open("AmTCD.ini", "w") as f:
             config.write(f)
+
     def xor_encrypt(self, plaintext, key):
         ciphertext = ""
         for i in range(len(plaintext)):
@@ -109,6 +128,8 @@ class AmTCD(tk.Frame):
             key_c = str(key)[i % len(str(key))]
             ciphertext += chr(ord(char) ^ ord(key_c))
         return ciphertext
+
+
 root = tk.Tk()
 app = AmTCD(master=root)
 app.config(bg='darkolivegreen2')

@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38b3fad3-62ec-4d1c-a0d2-b4464cb5a96d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AndroidStudio/ТЗ проекта.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/1 практика/Практическая работа (Вариант 2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 03 02/GPT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 03 02/MBR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 03 02/[FI]/fileinsight.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 03 02/code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 03 02/Практическая работа.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Lab 1/Lab01-01.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Lab 1/Lab01-01.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Lab 1/Lab01-02.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Lab 1/Lab01-03.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Lab 1/Lab01-04.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/PEiD.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/external.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/plugins/GenOEP.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/plugins/ImpREC.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/plugins/ZDRx.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/plugins/kanal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/plugins/kanal.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/pluginsdk/C++/defs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/pluginsdk/C++/null.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/pluginsdk/Delphi/Sample.dpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/pluginsdk/MASM/compile.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/pluginsdk/MASM/masm_plugin.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/pluginsdk/MASM/masm_plugin.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/pluginsdk/PowerBASIC/PEiD_Plugin.bas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/pluginsdk/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEiD-0.95-20081103/userdb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/PEview.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/ResourceHacker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/ResourceHacker.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/changes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/rh_binary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/rh_dlg_ctrl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/rh_dlg_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/rh_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/rh_main_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/rh_menu2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/rh_mnu_ctrl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/rh_scrpt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/help/rh_scrpt_err.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/samples/Sample2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/samples/sample1.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/samples/sample1.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/samples/sample1.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/Resource_Hacker/samples/sample1.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/Eis script/ASLscript3.Eis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/Eis script/ASLscriptEXT.Eis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/Eis script/ASLscriptEXT_example.Eis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/Eis script/ASLscript_7zip_fix.Eis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/Eis script/ASLscript_JP2_picture_Ripper.Eis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/Eis script/ASLscript_TPF0.Eis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/Eis script/ASLscript_WebP_Avi_Ripper.Eis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/Eis script/Anti_inno_VerIno_unicode.Eis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/Eis script/DPI_set_True.Eis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/Ext_Detector.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/exeinfope.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/exeinfopeRUN.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/file_id.diz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/languages/Chinese_Simplified_0.0.4.6_II.lng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/languages/Chinese_Traditional_0.0.6.1.lng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/languages/Chinese_Traditional_0.0.6.2.lng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/languages/Russian_v0.0.4.6_II.lng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/languages/exeinfope_Neutral_v0054.lng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/languages/exeinfope_Neutral_v0054.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/plugins/PEiD-0.95-20081103_ExeinfoPE.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/skins/Exeinfo_Installer BackBlu226.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/skins/Exeinfo_slicerX.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/skins/Red_uk_skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/skins/exei_Goldenor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/skins/exeinfope_skinDNA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/skins/exeinfope_skinGoldMetal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/skins/goldAntic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/skins/mason_skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/skins/skin gh54654.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/skins/skin wafe blu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/exeinfope/ExeinfoPe/userdb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/lordpe.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/!/map_setup.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/CFF.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/upx-4.0.2-win64.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/upx-4.0.2-win64/upx-4.0.2-win64/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/upx-4.0.2-win64/upx-4.0.2-win64/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/upx-4.0.2-win64/upx-4.0.2-win64/NEWS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/upx-4.0.2-win64/upx-4.0.2-win64/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/upx-4.0.2-win64/upx-4.0.2-win64/THANKS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/upx-4.0.2-win64/upx-4.0.2-win64/upx-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/upx-4.0.2-win64/upx-4.0.2-win64/upx-doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/upx-4.0.2-win64/upx-4.0.2-win64/upx.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/upx-4.0.2-win64/upx-4.0.2-win64/upx.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/~$атический анализ ВПО - Задание.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/2023 04 13/отчёт 5 практика Кичибеков Р.Ф..docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Debug/ConsoleApplication1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Debug/ConsoleApplication1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/ADIsoDLL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/FTK Imager.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/IsoBuster.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/LMS.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/MD5Remote.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/ProfUIS293ad32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/ad_globals.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/ad_log.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/adefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/adencrypt_gui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/adfs_globals.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/boost_date_time-vc100-mt-1_49.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/boost_filesystem-vc100-mt-1_49.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/boost_regex-vc100-mt-1_49.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/boost_system-vc100-mt-1_49.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/boost_thread-vc100-mt-1_49.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/cximage.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/da7zip.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/help/enu/FTKImager_UserGuide.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/icudt44.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/icuuc44.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/chs_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/chs_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/chs_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/deu_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/deu_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/deu_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/esp_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/esp_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/esp_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/fra_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/fra_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/fra_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/ita_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/ita_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/ita_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/jpn_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/jpn_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/jpn_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/kor_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/kor_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/kor_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/nld_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/nld_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/nld_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/ptb_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/ptb_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/ptb_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/sve_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/sve_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/sve_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/trk_adencrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/trk_adshattrdefs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/langs/trk_ftki.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/libeay32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/mfc100u.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/msvcp100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/Imager_Lite_3.1.1/msvcr100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/NEWS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/README-win32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/blkcalc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/blkcat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/blkls.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/blkstat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/concrt140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/fcat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/ffind.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/fls.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/fsstat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/hfind.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/icat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/ifind.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/ils.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/img_cat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/img_stat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/istat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/jcat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/jls.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/libewf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/libtsk_jni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/libvhdi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/libvmdk.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/mactime.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/mmcat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/mmls.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/mmstat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/pstat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/tsk_comparedir.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/tsk_gettimes.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/tsk_loaddb.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/tsk_recover.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/vccorlib140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/bin/zlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/lib/Rejistry++.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/lib/libtsk.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/lib/libtsk_jni.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/licenses/IBM-LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/TSK_win32/licenses/cpl1.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/KK/autopsy-4.19.1-64bit.msi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/Python.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/Python_var2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/main_C++.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/pcap/ColumnSetup-traffic.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/pcap/Emotet-with-IcedID.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/pcap/FTP-malware.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/pcap/Nanocore-RAT.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/pcap/Spambot.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/pcap/Trickbot-infection-traffic.pcap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/~$разец отчета.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/~WRL1155.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/Отчёт 1 практика, Кичибеков Р.Ф..docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/Отчёт 2 практика, Кичибеков Р.Ф..docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/Отчёт 3 практика, Кичибеков Р.Ф..docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/Отчёт 4 практика, Кичибеков Р.Ф..docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/Отчёт 7 практика, Кичибеков Р.Ф..docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KK/Практическая работа № 4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tim Cook/AmGP/.idea/AmGP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tim Cook/AmGP/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tim Cook/AmGP/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tim Cook/AmGP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tim Cook/AmGP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tim Cook/AmGP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tim Cook/AmGP/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tim Cook/L51-TextCodeDecode.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmGP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/Lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Tim.txtx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/dfdgdfg.txtx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/sdff.txtx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/xcvcxvxcv.txtx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/SuperCalc.dbg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/SuperCalc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/SuperCalc.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/SuperCalc.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/SuperCalc.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/SuperCalc.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/SuperCalc.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/backup/SuperCalc.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/backup/SuperCalc.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/backup/SuperCalc.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/backup/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/backup/unit1.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/01/unit1.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/backup/project1.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/backup/project1.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/backup/project2.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/backup/project2.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/backup/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/backup/unit1.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/lib/i386-win32/project1.compiled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/lib/i386-win32/project1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/lib/i386-win32/project1.or" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/lib/i386-win32/project1.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/lib/i386-win32/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/lib/i386-win32/unit1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/lib/i386-win32/unit1.ppu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/project1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/project1.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/project1.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/project1.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/project1.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/project1.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/02/unit1.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/backup/notebook.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/backup/notebook.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/backup/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/backup/unit1.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/backup/unithelp.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/backup/unithelp.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/lib/i386-win32/notebook.compiled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/lib/i386-win32/notebook.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/lib/i386-win32/notebook.or" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/lib/i386-win32/notebook.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/lib/i386-win32/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/lib/i386-win32/unit1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/lib/i386-win32/unit1.ppu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/lib/i386-win32/unithelp.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/lib/i386-win32/unithelp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/lib/i386-win32/unithelp.ppu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/notebook.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/notebook.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/notebook.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/notebook.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/notebook.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/notebook.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/unit1.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/unithelp.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/03/unithelp.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/AmTCD.dbg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/AmTCD.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/AmTCD.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/AmTCD.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/AmTCD.lpr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/AmTCD.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/AmTCD.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/backup/AmTCD.lpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/backup/AmTCD.lps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/backup/unitabout.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/backup/unitabout.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/backup/unitmain.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/backup/unitmain.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/lib/i386-win32/AmTCD.compiled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/lib/i386-win32/AmTCD.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/lib/i386-win32/AmTCD.or" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/lib/i386-win32/AmTCD.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/lib/i386-win32/unitabout.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/lib/i386-win32/unitabout.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/lib/i386-win32/unitabout.ppu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/lib/i386-win32/unitmain.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/lib/i386-win32/unitmain.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/lib/i386-win32/unitmain.ppu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/note.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/note.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/pngwing.com.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/unitabout.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/unitabout.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/unitmain.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/AmTCD/unitmain.pas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/Musor/SuperCalc.compiled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/Musor/SuperCalc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/Musor/SuperCalc.or" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/Musor/SuperCalc.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/Musor/unit1.lfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/Musor/unit1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laz/Musor/unit1.ppu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/makedisk-X.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Долженков/~$иложение.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Долженков/Кичибеков Р.Ф. последняя практика.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Долженков/ПОПС.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Долженков/Презенташка.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Долженков/Приложение.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Долженков/Проект.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Домашки.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/8/.idea/8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/8/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/8/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/8/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/8/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/8/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Praktikum_5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Praktikum_6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~$5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~$актика 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~$актика 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~$актика 5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~$актика3_2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~$атика 6 (Автосохраненный).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~$атика 6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~WRL0003.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~WRL1311.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~WRL2411.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~WRL2673.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/~WRL3816.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/БСБО-03-20/invisible_secrets_4.0.7.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/БСБО-03-20/invisible_secrets_4.0.7/invisible_secrets_4.0.7/invsecr_4.0.7.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/БСБО-03-20/invisible_secrets_4.0.7/Прочти.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/БСБО-03-20/лаб 15 КМЗИ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Лист Microsoft Excel.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Практика 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Практика 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Практика 5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Пратика 6 (Автосохраненный).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Пратика 6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Feistel.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Feistel.exe.i64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Feistel.exe.id0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Feistel.exe.id1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Feistel.exe.id2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Feistel.exe.nam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Feistel.exe.til" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Algorithms/Rijndael.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Algorithms/blowfish.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Algorithms/cast128.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Algorithms/diamond2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Algorithms/gost.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Algorithms/rc4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Algorithms/sapphire2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Algorithms/twofish.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Carriers/bmpcarrier.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Carriers/htmcarrier.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Carriers/jpgcarrier.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Carriers/pngcarrier.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Carriers/wavcarrier.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/INSTALL.LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Samples/sample.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Samples/sample.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Samples/sample.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/Samples/sample.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/UNWISE.EXE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/_sfd.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/english.lng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/feedback.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/french.lng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/invsecr.chm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/invsecr.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/invsecr.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/invtray.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/iscm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/keycapt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/neobytesolutions.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/purchase.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/Invisible Secrets 4/stopinv.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/~$б Фейст КМЗИ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/Feistel/БСБО-03-20/лаб Фейст КМЗИ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/InvisibleSecrets/БСБО-03-20/invisible_secrets_4.0.7.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/InvisibleSecrets/БСБО-03-20/invisible_secrets_4.0.7/invisible_secrets_4.0.7/invsecr_4.0.7.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/InvisibleSecrets/БСБО-03-20/invisible_secrets_4.0.7/Прочти.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/InvisibleSecrets/БСБО-03-20/лаб 15 КМЗИ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/WateMark/БСБО-03-20/watermark_1.05.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/WateMark/БСБО-03-20/watermark_2.02.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/Приложения Ермаковой/WateMark/БСБО-03-20/лаб 14 ЦВЗ КМЗИ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ермакова/практика3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Мельников/1 практика.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Мельников/1_2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Мельников/~$1_2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Мельников/~$практика.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Мельников/~WRL4036.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/2 практика.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/.idea/fabric.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/fabric/main4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Поспелов/~$практика.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AmTD.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Actions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Auto Profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/BezierCurveEditor/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/BezierCurveEditor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/ControllerConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/DS4Updater.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/DS4Windows.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/DS4Windows.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/DS4Windows.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/DS4Windows.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/DependencyPropertyGenerator.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/DotNetProjects.Wpf.Extended.Toolkit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/FakerInputDll.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/FakerInputWrapper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/H.NotifyIcon.Wpf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/H.NotifyIcon.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/HttpProgress.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/ICSharpCode.AvalonEdit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/ar/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/cs/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/de/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/de/Microsoft.Win32.TaskScheduler.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/es/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/es/Microsoft.Win32.TaskScheduler.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/fr/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/fr/Microsoft.Win32.TaskScheduler.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/he/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/hu-HU/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/it/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/it/Microsoft.Win32.TaskScheduler.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/ja/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/nl/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/pl/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/pl/Microsoft.Win32.TaskScheduler.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/pt-BR/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/pt/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/ru/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/ru/Microsoft.Win32.TaskScheduler.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/se/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/uk-UA/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/zh-CN/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/zh-CN/Microsoft.Win32.TaskScheduler.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/zh-Hans/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/zh-Hant/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/zh-Hant/Microsoft.Win32.TaskScheduler.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Lang/zh-TW/DS4Windows.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Logs/ds4windows_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Logs/ds4windows_log_20230516.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Logs/ds4windows_log_20230516.1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Logs/ds4windows_log_20230517.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/MdXaml.Plugins.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/MdXaml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Microsoft.Win32.TaskScheduler.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/NLog.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/NLog.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Nefarius.Utilities.DeviceManagement.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Nefarius.ViGEm.Client.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Ookii.Dialogs.Wpf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/OutputSlots.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Profiles/Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/SharpOSC.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/System.CodeDom.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/System.Management.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Tools/XInputChecker/SharpDX.XInput.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Tools/XInputChecker/SharpDX.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Tools/XInputChecker/XInputChecker.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Tools/XInputChecker/XInputChecker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Tools/XInputChecker/XInputChecker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/Tools/XInputChecker/XInputChecker.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/WPFLocalizeExtension.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/WpfScreenHelper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/XAMLMarkupExtensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS4Windows/runtimes/win/lib/net6.0/System.Management.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Discord.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docker Desktop.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Far Cry 6.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Grand Theft Auto V.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Monopoly" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Notion.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Postman.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Rockstar Games Launcher.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Slack.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ubisoft Connect.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Visual Studio Code.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Zoom.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/Monopoly.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Field/Bonus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Field/Field.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Field/Fine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Field/Parking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Field/Prison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Field/Railway.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Field/Street.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Game/Dice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Game/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Game/Glass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Game/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/out/production/Monopoly.2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Field/Bonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Field/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Field/Fine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Field/Parking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Field/Prison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Field/Railway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Field/Street.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Game/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Game/Glass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Game/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly.2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/Monopoly1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/cars-project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/pos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/social-cars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../prob/team1_varant14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../team1_varant14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../~$актика3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../~$инятие решений 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../~$следняя практика.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../~WRL0005.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Я.Браузер.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Яндекс.Диск.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../практика3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QIBnGTxDx4m2U0OoWKzhTqGPiE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38b3fad3-62ec-4d1c-a0d2-b4464cb5a96d" name="Changes" comment="" />
+      <created>1685031383424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685031383424</updated>
+      <workItem from="1685031385326" duration="285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AmTCD$main.coverage" NAME="main Coverage Results" MODIFIED="1685031407896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
